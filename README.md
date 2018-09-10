@@ -1,1 +1,1 @@
-## Python exercises
+# Python exercises on basic data structures in python
